@@ -2,39 +2,40 @@
   color: #f2f2f2;
 }
 
-.font-white:hover{
+.font-white:hover {
   color: #ffffff;
 }
 
-.font-pure-white{
+.font-pure-white {
   color: #ffffff;
 }
 
-.nav-item:hover{
+.nav-item:hover {
   cursor: pointer;
 }
 
-.align-right{
+.align-right {
   float: right;
 }
 
-.container{
+
+.container {
   margin-top: 5rem;
 }
 
-.list-group{
+.list-group {
   margin-bottom: 0.5rem;
 }
 
-.list-group-item{
+.list-group-item {
   border-width: 0;
 }
 
-.abstract-card:hover{
+.abstract-card:hover {
   cursor: pointer;
 }
 
-.justify-elements{
+.justify-elements {
   display: flex;
   justify-content: space-between;
 }
@@ -61,32 +62,32 @@
   color: #ffc107;
 }
 
-.card:hover{
+.card:hover {
   cursor: pointer;
   background-color: #CBDCEB;
 }
 
-.card:hover .card-header{
+.card:hover .card-header {
   background-color: #133E87;
 }
 
-.font-black{
+.font-black {
   color: #000;
 }
 
-.navy-background{
+.navy-background {
   background-color: #133E87;
 }
 
-.navy-border{
-  border-color: #133E87 ;
+.navy-border {
+  border-color: #133E87;
 }
 
-.navy-border:hover{
+.navy-border:hover {
   background-color: #133E87;
 }
 
-.seablue-background{
+.seablue-background {
   background-color: #CBDCEB;
 }
 
@@ -94,12 +95,34 @@
   border-color: #608BC1;
 }
 
-.white-background{
-  background-color: #fff;
-  color:#133E87;
-}
-
-.white-background:hover{
+.white-background {
   background-color: #fff;
   color: #133E87;
+}
+
+.white-background:hover {
+  background-color: #fff;
+  color: #133E87;
+}
+
+.card-image-thumbnail {
+  width: 75%;
+}
+
+.center-align-div {
+  display: flex;
+  align-items: center;
+}
+
+.spinner-color {
+  color: #133E87;
+  width: 4rem;
+  height: 4rem;
+}
+
+.spinner-animation {
+  margin-top: 30%;
+  margin-left: 47%;
+  width: 4rem;
+  height: 4rem;
 }
